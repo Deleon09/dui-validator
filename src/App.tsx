@@ -30,7 +30,7 @@ function App() {
             value={value}
             onChange={(e) => setvalue(e.target.value)}
           />
-          <button className='bg-blue-700 text-white w-auto py-2 px-3 rounded'>Validar</button>
+          <button className='bg-blue-700 text-white w-auto py-2 px-3 rounded'>Verificar</button>
         </form>
       </div>
     </div>
